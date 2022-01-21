@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "841239502179",
+    "firebase_url": "https://mawiin.firebaseio.com",
+    "project_id": "mawiin",
+    "storage_bucket": "mawiin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:841239502179:android:1df6d40ce8936282fe0756",
+        "android_client_info": {
+          "package_name": "sa.takwen.mawiin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "841239502179-evgm2idk8p0n5o63vnrh7ofr6uaglo4s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "sa.takwen.mawiin",
+            "certificate_hash": "e73303e91b27084e08263b410f6a962c65b7cd25"
+          }
+        },
+        {
+          "client_id": "841239502179-88fssfue92mn8udh08dhu9ged4bqfhq5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8ciOzhbFqmSiD72OiO0C0aGNrAQF8ucM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "841239502179-88fssfue92mn8udh08dhu9ged4bqfhq5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>841239502179-1obqfjap9qloab7u6t4q5u23ndp2mcln.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.841239502179-1obqfjap9qloab7u6t4q5u23ndp2mcln</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>841239502179-evgm2idk8p0n5o63vnrh7ofr6uaglo4s.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCbo2WFhvHssyQZuWwibEImU9TRSYiXt14</string>
+	<key>GCM_SENDER_ID</key>
+	<string>841239502179</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>sa.takwen.mawiin</string>
+	<key>PROJECT_ID</key>
+	<string>mawiin</string>
+	<key>STORAGE_BUCKET</key>
+	<string>mawiin.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:841239502179:ios:5d8be6d6c7c2e95ffe0756</string>
+	<key>DATABASE_URL</key>
+	<string>https://mawiin.firebaseio.com</string>
+</dict>
+</plist>
